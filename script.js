@@ -24,7 +24,7 @@
  */
 
 // Replace with your real Amazon Associates Store ID (e.g., "buildmybag-20")
-const AMAZON_ASSOCIATE_TAG = "YOUR_TAG-20";
+const AMAZON_ASSOCIATE_TAG = "buildmybag-20";
 
 let discCatalog = [];
 
@@ -50,7 +50,7 @@ const FALLBACK_DISCS = [
       Advanced: "KC Pro or Star (175g) for windy putting and driving approaches"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Aviar+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Aviar+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-07",
@@ -71,7 +71,7 @@ const FALLBACK_DISCS = [
       Advanced: "CryZtal FLX or Z Line (173–175g) for maximum skip control"
     },
     visual: { discColor: "#e06d1b", rimColor: "#ad4f0c", stampColor: "#ffffff", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Discraft+Zone+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Discraft+Zone+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-14",
@@ -92,7 +92,7 @@ const FALLBACK_DISCS = [
       Advanced: "Eclipse Glow or Neutron (174–175g) for high-power straight lines"
     },
     visual: { discColor: "#e06d1b", rimColor: "#c83e2b", stampColor: "#1c1917", overmold: true },
-    amazonUrl: "https://www.amazon.com/s?k=Axiom+Proxy+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Axiom+Proxy+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-20",
@@ -113,7 +113,7 @@ const FALLBACK_DISCS = [
       Advanced: "Z Line or Titanium (175–177g) for full-power drives"
     },
     visual: { discColor: "#e06d1b", rimColor: "#ad4f0c", stampColor: "#ffffff", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Discraft+Buzzz+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Discraft+Buzzz+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-22",
@@ -134,7 +134,7 @@ const FALLBACK_DISCS = [
       Advanced: "Z Line (175–177g) for touch woods lines"
     },
     visual: { discColor: "#e06d1b", rimColor: "#ad4f0c", stampColor: "#ffffff", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Discraft+Meteor+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Discraft+Meteor+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-27",
@@ -155,7 +155,7 @@ const FALLBACK_DISCS = [
       Advanced: "Champion (176–180g) for maximum overstability"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Roc3+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Roc3+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-40",
@@ -176,7 +176,7 @@ const FALLBACK_DISCS = [
       Advanced: "Champion or Halo Star (173–175g) for controlled woods turnovers"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Leopard3+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Leopard3+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-41",
@@ -197,7 +197,7 @@ const FALLBACK_DISCS = [
       Advanced: "Champion or Halo Star (173–175g) for power placement drives"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+TeeBird+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+TeeBird+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-44",
@@ -218,7 +218,7 @@ const FALLBACK_DISCS = [
       Advanced: "Champion or Halo Star (173–175g) for tour-grade torque resistance"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Firebird+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Firebird+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-69",
@@ -239,7 +239,7 @@ const FALLBACK_DISCS = [
       Advanced: "Champion or Halo Star (173–175g) for sky rollers and big turnovers"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Mamba+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Mamba+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-71",
@@ -260,7 +260,7 @@ const FALLBACK_DISCS = [
       Advanced: "Star or Halo Star (173–175g) for booming controlled drives"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Wraith+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Wraith+disc+golf&tag=buildmybag-20"
   },
   {
     id: "disc-74",
@@ -281,7 +281,7 @@ const FALLBACK_DISCS = [
       Advanced: "Star or Halo Star (173–175g) for tour-level power"
     },
     visual: { discColor: "#d93829", rimColor: "#9e2318", stampColor: "#f7e3b5", overmold: false },
-    amazonUrl: "https://www.amazon.com/s?k=Innova+Destroyer+disc+golf&tag=YOUR_TAG-20"
+    amazonUrl: "https://www.amazon.com/s?k=Innova+Destroyer+disc+golf&tag=buildmybag-20"
   }
 ];
 
@@ -660,7 +660,7 @@ function renderSpotlightDisc(disc, diagnosis, throwStyle, skill) {
  */
 function buildCompliantAmazonUrl(disc) {
   if (disc.amazonUrl && disc.amazonUrl.startsWith("https://www.amazon.com/")) {
-    return disc.amazonUrl.replace("YOUR_TAG-20", AMAZON_ASSOCIATE_TAG);
+    return disc.amazonUrl.replace("buildmybag-20", AMAZON_ASSOCIATE_TAG);
   }
   const query = encodeURIComponent(`${disc.brand} ${disc.mold} disc golf`);
   return `https://www.amazon.com/s?k=${query}&tag=${encodeURIComponent(AMAZON_ASSOCIATE_TAG)}`;
