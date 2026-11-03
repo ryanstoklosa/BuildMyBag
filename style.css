@@ -1,0 +1,887 @@
+/* ==========================================================================
+   BUILD MY BAG - PERSONAL DISC GOLF FITTING LAB (style.css)
+   Matte, authoritative field-guide aesthetic in Terracotta Red, Burnt Orange,
+   and Warm Stone. Zero cheap neon glows, zero database count badges.
+   ========================================================================== */
+
+:root {
+  --bg-page: #f4efe6;          /* Warm field-manual paper background */
+  --bg-panel: #ffffff;         /* Crisp flat white card surface */
+  --bg-subtle: #ebe4d8;        /* Muted warm stone for inner boxes */
+  --bg-chart: #faf7f2;         /* Drafting paper surface for flight map */
+  --ink-main: #1c1917;         /* Deep charcoal-brown ink */
+  --ink-muted: #57534e;        /* Secondary warm slate text */
+  --border-color: #d6cec2;     /* Crisp structural border */
+  --border-strong: #a89f91;    /* Emphasized border */
+  --brand-red: #c83e2b;        /* Terracotta / Brick Red primary */
+  --brand-red-dark: #9e2a1b;   /* Deep brick red for hover & active borders */
+  --brand-orange: #e06d1b;     /* Burnt Orange accent */
+  --brand-orange-soft: #fdf2e9;/* Warm flat tint for selected cards */
+  --radius-sm: 6px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg-page);
+  color: var(--ink-main);
+  line-height: 1.55;
+  padding-bottom: 4rem;
+}
+
+.container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Strictly hides inactive page view or collapsed drawer */
+.is-hidden {
+  display: none !important;
+}
+
+/* ==========================================================================
+   SITE HEADER & BRAND LOCKUP
+   ========================================================================== */
+.site-header {
+  padding: 2rem 0 1.75rem;
+  border-bottom: 4px solid var(--brand-red);
+  background-color: var(--bg-subtle);
+}
+
+.header-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.brand-lockup {
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.brand-emblem {
+  width: 54px;
+  height: 54px;
+  flex-shrink: 0;
+}
+
+.eyebrow {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: var(--brand-red);
+  margin-bottom: 0.1rem;
+}
+
+.brand-title {
+  font-size: clamp(1.9rem, 3.5vw, 2.55rem);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  color: var(--ink-main);
+  line-height: 1.05;
+}
+
+.subtitle {
+  color: var(--ink-muted);
+  font-size: 1.02rem;
+  max-width: 780px;
+}
+
+/* ==========================================================================
+   MAIN LAYOUT & PANELS
+   ========================================================================== */
+.main-layout {
+  margin-top: 2rem;
+}
+
+.quiz-view {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.panel {
+  background-color: var(--bg-panel);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 1.85rem;
+}
+
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.65rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--ink-main);
+}
+
+.step-kicker {
+  display: block;
+  font-size: 0.73rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  color: var(--brand-red);
+  margin-bottom: 0.2rem;
+}
+
+.panel-header h2 {
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.header-badge {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: var(--brand-red-dark);
+  background-color: var(--brand-orange-soft);
+  border: 1px solid var(--brand-orange);
+  padding: 0.3rem 0.7rem;
+  border-radius: var(--radius-sm);
+}
+
+/* ==========================================================================
+   QUESTIONNAIRE FORM CARDS
+   ========================================================================== */
+.question-group {
+  border: none;
+  margin-bottom: 1.85rem;
+}
+
+.question-group legend {
+  font-size: 1.08rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.q-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 4px;
+  background-color: var(--brand-red);
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+
+.field-hint {
+  color: var(--ink-muted);
+  font-size: 0.88rem;
+  margin-bottom: 0.75rem;
+}
+
+.option-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.85rem;
+  margin-top: 0.55rem;
+}
+
+.option-grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.option-grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.option-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  background-color: var(--bg-page);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.05rem;
+  cursor: pointer;
+  transition: border-color 0.12s ease, background-color 0.12s ease;
+}
+
+.option-card:hover {
+  border-color: var(--border-strong);
+}
+
+.option-card input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.option-card:has(input[type="radio"]:checked) {
+  border-color: var(--brand-red);
+  background-color: var(--brand-orange-soft);
+}
+
+.option-tag {
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--brand-orange);
+}
+
+.option-title {
+  font-weight: 800;
+  font-size: 0.96rem;
+  color: var(--ink-main);
+}
+
+.option-desc {
+  font-size: 0.83rem;
+  color: var(--ink-muted);
+}
+
+.form-actions {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Buttons */
+.btn-primary {
+  width: 100%;
+  padding: 1.05rem 1.5rem;
+  font-size: 1.12rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  background-color: var(--brand-red);
+  border: 2px solid var(--brand-red-dark);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--brand-red-dark);
+}
+
+.btn-secondary {
+  background-color: var(--bg-panel);
+  color: var(--ink-main);
+  border: 2px solid var(--ink-main);
+  padding: 0.65rem 1.15rem;
+  font-size: 0.9rem;
+  font-weight: 800;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.btn-secondary:hover {
+  background-color: var(--ink-main);
+  color: #ffffff;
+}
+
+.btn-outline-accent {
+  background-color: var(--brand-orange-soft);
+  color: var(--brand-red-dark);
+  border: 2px solid var(--brand-red);
+  padding: 0.6rem 1.05rem;
+  font-size: 0.86rem;
+  font-weight: 800;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.btn-outline-accent:hover {
+  background-color: var(--brand-red);
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   HOME PAGE BRAND STORY & FLIGHT CODE PRIMER
+   ========================================================================== */
+.brand-story-panel {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-strong);
+}
+
+.story-grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.story-col h3 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin-bottom: 0.55rem;
+}
+
+.story-col p {
+  font-size: 0.94rem;
+  color: var(--ink-main);
+}
+
+.flight-code-primer {
+  background-color: var(--bg-panel);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--brand-red);
+  padding: 1.15rem 1.25rem;
+  border-radius: var(--radius-sm);
+}
+
+.flight-code-primer h4 {
+  font-size: 0.95rem;
+  font-weight: 800;
+  margin-bottom: 0.55rem;
+  color: var(--brand-red-dark);
+}
+
+.primer-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+}
+
+.primer-list strong {
+  color: var(--ink-main);
+}
+
+/* ==========================================================================
+   RESULTS PAGE (PAGE 2)
+   ========================================================================== */
+.results-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.35rem;
+}
+
+.results-nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+}
+
+.profile-summary-pill {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: var(--ink-main);
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-strong);
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--radius-sm);
+}
+
+.amazon-disclosure-banner {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--brand-orange);
+  padding: 0.65rem 1rem;
+  font-size: 0.82rem;
+  color: var(--ink-main);
+  border-radius: var(--radius-sm);
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: 1.08fr 0.92fr;
+  gap: 1.5rem;
+  align-items: stretch;
+}
+
+.spotlight-top-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.tag {
+  font-size: 0.73rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.22rem 0.6rem;
+  border-radius: 4px;
+}
+
+.tag-solid {
+  background-color: var(--brand-red);
+  color: #ffffff;
+}
+
+.tag-bordered {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-strong);
+  color: var(--ink-main);
+}
+
+/* Top-Down SVG Disc Stamp + Mold Title Hero Lockup */
+.disc-hero-lockup {
+  display: flex;
+  align-items: center;
+  gap: 1.15rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.disc-art-container {
+  width: 92px;
+  height: 92px;
+  flex-shrink: 0;
+}
+
+.disc-art-container svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.brand-kicker {
+  display: block;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: var(--brand-red);
+}
+
+.disc-title {
+  font-size: 1.95rem;
+  font-weight: 900;
+  line-height: 1.1;
+  color: var(--ink-main);
+  margin: 0.1rem 0 0.25rem;
+}
+
+.disc-meta {
+  color: var(--brand-orange);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+/* 4-Number Flight Rating Boxes */
+.flight-numbers-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.6rem;
+  margin-bottom: 1.25rem;
+}
+
+.fn-box {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-top: 3px solid var(--brand-red);
+  border-radius: var(--radius-sm);
+  padding: 0.65rem 0.45rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.fn-label {
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: var(--ink-muted);
+}
+
+.fn-value {
+  font-size: 1.55rem;
+  font-weight: 900;
+  color: var(--ink-main);
+  margin: 0.08rem 0;
+}
+
+.fn-sub {
+  font-size: 0.66rem;
+  color: var(--ink-muted);
+}
+
+.diagnosis-box {
+  background-color: var(--bg-page);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--brand-red);
+  padding: 0.95rem 1.1rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 0.95rem;
+}
+
+.diagnosis-box h3 {
+  font-size: 0.92rem;
+  font-weight: 800;
+  margin-bottom: 0.3rem;
+  color: var(--brand-red-dark);
+}
+
+.diagnosis-box p {
+  font-size: 0.89rem;
+  color: var(--ink-main);
+}
+
+.disc-caddie-note {
+  margin-top: 0.45rem;
+  font-style: italic;
+  color: var(--ink-muted) !important;
+}
+
+/* Recommended Plastic & Weight Box */
+.plastic-prescription-box {
+  background-color: var(--brand-orange-soft);
+  border: 1px solid var(--brand-orange);
+  border-radius: var(--radius-sm);
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.prescription-label {
+  display: block;
+  font-size: 0.69rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--brand-red-dark);
+  margin-bottom: 0.15rem;
+}
+
+.prescription-text {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--ink-main);
+}
+
+/* Amazon Purchase Button */
+.btn-amazon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.95rem 1.25rem;
+  background-color: var(--brand-orange);
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 1rem;
+  text-decoration: none;
+  border: 2px solid #b85009;
+  border-radius: var(--radius-sm);
+  transition: background-color 0.15s ease;
+}
+
+.btn-amazon:hover {
+  background-color: #c2570e;
+}
+
+.affiliate-note {
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  text-align: center;
+  margin-top: 0.45rem;
+}
+
+/* ==========================================================================
+   SVG FLIGHT CHART PANEL
+   ========================================================================== */
+.flight-chart-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.85rem;
+}
+
+.chart-sub {
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+}
+
+.chart-legend {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--ink-muted);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.swatch-turn { background-color: var(--brand-orange); }
+.swatch-fade { background-color: var(--brand-red); }
+
+.svg-canvas-wrapper {
+  background-color: var(--bg-chart);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 0.5rem;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#flight-svg {
+  width: 100%;
+  max-width: 360px;
+  height: auto;
+  overflow: visible;
+}
+
+.center-target-line {
+  stroke: #b8afa0;
+  stroke-width: 1.5;
+  stroke-dasharray: 5 5;
+}
+
+.flight-path-main {
+  fill: none;
+  stroke: var(--brand-red);
+  stroke-width: 4.5;
+  stroke-linecap: round;
+}
+
+.chart-footer-note {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  text-align: center;
+  margin-top: 0.65rem;
+}
+
+/* ==========================================================================
+   RUNNER-UP & "VIEW ALL RECOMMENDATIONS" CARDS
+   Each card includes a mini disc stamp illustration, non-wrapping flight
+   numbers, caddie note, and a direct Amazon.com purchase link.
+   ========================================================================== */
+.alternatives-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.15rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.alt-sub {
+  font-size: 0.86rem;
+  color: var(--ink-muted);
+  margin-top: 0.15rem;
+}
+
+.alternatives-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.alt-item {
+  background-color: var(--bg-page);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.15rem;
+  cursor: pointer;
+  transition: border-color 0.12s ease, background-color 0.12s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.alt-item:hover {
+  border-color: var(--border-strong);
+}
+
+.alt-item.active-alt {
+  border-color: var(--brand-red);
+  background-color: var(--brand-orange-soft);
+}
+
+.alt-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.alt-Identity {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 0;
+}
+
+.alt-mini-disc {
+  width: 46px;
+  height: 46px;
+  flex-shrink: 0;
+}
+
+.alt-mini-disc svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.alt-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.alt-name {
+  font-weight: 800;
+  font-size: 1.02rem;
+  color: var(--ink-main);
+}
+
+/* Strictly keeps all 4 flight numbers on a single line with generous space */
+.alt-numbers {
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 0.86rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-weight: 800;
+  color: var(--brand-red-dark);
+  background-color: #ffffff;
+  border: 1px solid var(--border-strong);
+  padding: 0.32rem 0.65rem;
+  border-radius: 4px;
+}
+
+.alt-caddie-snippet {
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  line-height: 1.45;
+}
+
+.alt-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  padding-top: 0.55rem;
+  border-top: 1px dashed var(--border-color);
+}
+
+.alt-preview-hint {
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--brand-red);
+}
+
+.alt-amazon-mini {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: var(--ink-main);
+  background-color: #ffffff;
+  border: 1px solid var(--border-strong);
+  padding: 0.28rem 0.65rem;
+  border-radius: 4px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color 0.12s ease, border-color 0.12s ease;
+}
+
+.alt-amazon-mini:hover {
+  background-color: var(--brand-orange);
+  border-color: #b85009;
+  color: #ffffff;
+}
+
+/* Expandable "View All Recommendations" Drawer */
+.all-recs-drawer {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--ink-main);
+}
+
+.drawer-divider {
+  margin-bottom: 1rem;
+}
+
+.drawer-divider h4 {
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+.drawer-divider p {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+}
+
+.results-bottom-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.btn-return-large {
+  max-width: 380px;
+  width: 100%;
+}
+
+/* ==========================================================================
+   SITE FOOTER
+   ========================================================================== */
+.site-footer {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  color: var(--ink-muted);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+/* ==========================================================================
+   RESPONSIVE BREAKPOINTS (Mobile & Tablet)
+   ========================================================================== */
+@media (max-width: 880px) {
+  .option-grid,
+  .option-grid-4,
+  .option-grid-2,
+  .story-grid,
+  .results-grid,
+  .alternatives-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .results-nav-bar,
+  .alternatives-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

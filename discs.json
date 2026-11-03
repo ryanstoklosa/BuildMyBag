@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "disc-01",
+    "brand": "Innova",
+    "mold": "Aviar",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "The most iconic putt & approach disc in the sport, featuring a straight flight and dependable low-speed finish.",
+    "caddieNote": "Grab a Classic Aviar or Aviar P&A if you want a clean, beadless release that holds whatever putting or approach line you set.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Aviar+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-02",
+    "brand": "Innova",
+    "mold": "Pig",
+    "speed": 3,
+    "glide": 1,
+    "turn": 0,
+    "fade": 3,
+    "category": "Putter",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "A heavy, low-glide approach putter with a thumb-track rim that resists wind and sits down fast near the pin.",
+    "caddieNote": "Because of the 1 Glide rating, the Pig refuses to float past the basket in stiff headwinds\u2014ideal for safe forehand flick upshots.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Pig+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-03",
+    "brand": "Innova",
+    "mold": "Mirage",
+    "speed": 3,
+    "glide": 4,
+    "turn": -3,
+    "fade": 0,
+    "category": "Putter",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A shallow, ultra-understable finesse putter built for gentle turnovers, long glidey putts, and slower arm speeds.",
+    "caddieNote": "Great for smaller hands or players whose approach shots keep dumping left early; a flat wrist flick sends it dead straight.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Mirage+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-04",
+    "brand": "Innova",
+    "mold": "JK Pro Aviar-X",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A big-bead, tacky putter that offers extra low-speed fade and grab-and-sit control on the green.",
+    "caddieNote": "If standard putters feel too slick or glide too far past the chains, this tacky blend hits the chains and drops.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+JK+Pro+Aviar-X+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-05",
+    "brand": "Innova",
+    "mold": "Toro",
+    "speed": 4,
+    "glide": 2,
+    "turn": 1,
+    "fade": 3,
+    "category": "Putter",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "Calvin Heimburg's signature overstable approach mold engineered to handle full-torque forehand and backhand approaches.",
+    "caddieNote": "When you need an approach disc that will never flip over no matter how hard you snap a forehand, the Toro is money.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Toro+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-06",
+    "brand": "Discraft",
+    "mold": "Luna",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 3,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "Paul McBeth's signature beadless putter that flies dead straight with high glide and a gentle finish.",
+    "caddieNote": "Don't let the 3 Fade number fool you\u2014in actual flight, the Luna tracks remarkably straight with just a soft late settle.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Luna+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-07",
+    "brand": "Discraft",
+    "mold": "Zone",
+    "speed": 4,
+    "glide": 3,
+    "turn": 0,
+    "fade": 3,
+    "category": "Putter",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "The gold-standard overstable approach disc for forehand and backhand flick shots that need a predictable hyzer finish.",
+    "caddieNote": "Arguably the single best utility approach disc ever molded. Flat top, comfortable shallow rim, and immune to wrist-roll.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Zone+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-08",
+    "brand": "Discraft",
+    "mold": "Fierce",
+    "speed": 3,
+    "glide": 4,
+    "turn": -2,
+    "fade": 0,
+    "category": "Putter",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Paige Pierce's signature understable putter designed for effortless straight approaches and smooth woods turnovers.",
+    "caddieNote": "Throws effortlessly from a standstill in the woods when you're pinched behind a tree and need a gentle right-drifting approach.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Fierce+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-09",
+    "brand": "Discraft",
+    "mold": "Roach",
+    "speed": 2,
+    "glide": 4,
+    "turn": 0,
+    "fade": 1,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A beadless, high-glide putt and approach disc that floats straight to the chains with minimal effort.",
+    "caddieNote": "Gives Circle 2 putts extra loft so you don't have to strain your form to reach the basket from 45 feet out.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Roach+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-10",
+    "brand": "MVP",
+    "mold": "Anode",
+    "speed": 2.5,
+    "glide": 3,
+    "turn": 0,
+    "fade": 0.5,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A GYRO overmold putter that holds the exact release angle with virtually zero fade at the end of the flight.",
+    "caddieNote": "The dense outer rim keeps the disc spinning longer at low speeds, preventing that frustrating late hyzer dump.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Anode+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-11",
+    "brand": "MVP",
+    "mold": "Glitch",
+    "speed": 1,
+    "glide": 7,
+    "turn": 0,
+    "fade": 0,
+    "category": "Putter",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A hybrid catch-and-approach disc with a 7 Glide rating that floats on a rope with just a flick of the wrist.",
+    "caddieNote": "An absolute cheat code for scramble upshots\u2014just point and toss like a backyard catch disc and watch it hover straight.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Glitch+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-12",
+    "brand": "MVP",
+    "mold": "Watt",
+    "speed": 2,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 0.5,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A max-weight throwing putter that carries the laser-straight, high-glide spirit of the Glitch into a standard golf rim.",
+    "caddieNote": "If you want a throwing putter that holds a dead-straight tunnel line for 220+ feet without fading out, bag the Watt.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Watt+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-13",
+    "brand": "Axiom",
+    "mold": "Envy",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A legendary throwing putter that handles full-power drives off the tee with a straight mid-flight and dependable fade.",
+    "caddieNote": "Handles driver-level arm speed without burning over, making it the ultimate tee-pad putter for holes under 280 feet.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Envy+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-14",
+    "brand": "Axiom",
+    "mold": "Proxy",
+    "speed": 3,
+    "glide": 3,
+    "turn": -1,
+    "fade": 0.5,
+    "category": "Putter",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Shares the exact core feel of the Envy but offers a straight-to-slightly-understable flight path with zero late dump.",
+    "caddieNote": "Pairs perfectly alongside an Envy\u2014same hand feel, but pushes dead straight all the way to the ground.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Proxy+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-15",
+    "brand": "Dynamic Discs",
+    "mold": "Judge",
+    "speed": 2,
+    "glide": 4,
+    "turn": 0,
+    "fade": 1,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A classic beaded putter famous for its exceptional glide and consistent release for both putting and short approaches.",
+    "caddieNote": "If you like resting your index finger on a distinct bottom bead for a repeatable release, the Judge is a staple.",
+    "plasticGuide": {
+      "Beginner": "Prime or Lucid Air (160\u2013167g) for forgiving releases",
+      "Intermediate": "Fuzion or Lucid (169\u2013173g) for dependable fairway control",
+      "Advanced": "Lucid-X or Supreme (173\u2013175g) for power throwers"
+    },
+    "visual": {
+      "discColor": "#c94a29",
+      "rimColor": "#8f3017",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Dynamic+Discs+Judge+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-16",
+    "brand": "Latitude 64",
+    "mold": "Pure",
+    "speed": 3,
+    "glide": 3,
+    "turn": -1,
+    "fade": 1,
+    "category": "Putter",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A beadless, shallow-rimmed throwing and putting putter that tracks dead straight with minimal power.",
+    "caddieNote": "One of the cleanest-releasing shallow putters ever made; teaches clean spin and rewards smooth releases.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Pure+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-17",
+    "brand": "Westside Discs",
+    "mold": "Harp",
+    "speed": 4,
+    "glide": 3,
+    "turn": 0,
+    "fade": 3,
+    "category": "Putter",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "A flat-topped, board-reliable approach disc that handles heavy winds and high-torque forehand approaches.",
+    "caddieNote": "Slightly deeper in the hand than a Zone, giving backhand throwers a confident grip for spike hyzer approaches.",
+    "plasticGuide": {
+      "Beginner": "Origio or VIP Air (158\u2013166g) for easy carry",
+      "Intermediate": "Tournament or VIP (168\u2013172g) for clean control",
+      "Advanced": "VIP-X or Tournament Orbit (173\u2013175g) for reliable fade"
+    },
+    "visual": {
+      "discColor": "#d45b24",
+      "rimColor": "#9c3e12",
+      "stampColor": "#fff8f0",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Westside+Discs+Harp+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-18",
+    "brand": "Kastaplast",
+    "mold": "Berg",
+    "speed": 1,
+    "glide": 1,
+    "turn": 0,
+    "fade": 2,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A ergonomic thumb-puddle approach disc engineered with 1 Speed and 1 Glide so it never sails past the target.",
+    "caddieNote": "On death putts or downhill approaches where going long means OB, the Berg simply drops out of the sky and parks.",
+    "plasticGuide": {
+      "Beginner": "K3 or lightweight K1 (162\u2013167g) for unmatched grip",
+      "Intermediate": "K1 or K1 Soft (168\u2013172g) for buttery feel and flight",
+      "Advanced": "K1 (173\u2013175g) for confident full-power drives"
+    },
+    "visual": {
+      "discColor": "#e37627",
+      "rimColor": "#ab5211",
+      "stampColor": "#1f1b18",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Kastaplast+Berg+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-19",
+    "brand": "Discmania",
+    "mold": "P2",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2,
+    "category": "Putter",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A deep-dish, torque-resistant putter favored by power putters and players who love hyzer approach lines.",
+    "caddieNote": "Ideal for spin-and-push putters who want a confident, wind-resistant flight inside and outside the circle.",
+    "plasticGuide": {
+      "Beginner": "D-Line or Neo (162\u2013168g) for smooth glide",
+      "Intermediate": "S-Line or Neo (168\u2013172g) for controllable turn and fade",
+      "Advanced": "C-Line or Horizon (173\u2013175g) for maximum overstability"
+    },
+    "visual": {
+      "discColor": "#b52b24",
+      "rimColor": "#7d1914",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discmania+P2+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-20",
+    "brand": "Discraft",
+    "mold": "Buzzz",
+    "speed": 5,
+    "glide": 4,
+    "turn": -1,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "The most popular midrange in the world; holds any hyzer, flat, or anhyzer angle you put it on with unmatched consistency.",
+    "caddieNote": "If you could only carry one disc for an entire round, the Buzzz is the universal answer.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Buzzz+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-21",
+    "brand": "Discraft",
+    "mold": "Comet",
+    "speed": 4,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A classic finesse midrange with tremendous glide that rewards smooth form and effortless hyzer-flips.",
+    "caddieNote": "Floats effortlessly down tight wooded fairways without needing a hard rip off the tee.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Comet+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-22",
+    "brand": "Discraft",
+    "mold": "Meteor",
+    "speed": 5,
+    "glide": 5,
+    "turn": -3,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A comfortable, beadless understable midrange that glides right with ease and corrects early left hooks.",
+    "caddieNote": "Feels much more modern and smooth in the hand than older beaded midranges while delivering easy right-moving turn.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Meteor+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-23",
+    "brand": "Discraft",
+    "mold": "Sol",
+    "speed": 4,
+    "glide": 5,
+    "turn": -3,
+    "fade": 0,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A small-diameter, shallow understable midrange that flips to flat and glides right with minimal effort.",
+    "caddieNote": "Perfect for players with smaller hands or slower arm speeds who find standard midranges too bulky.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Sol+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-24",
+    "brand": "Discraft",
+    "mold": "Buzzz OS",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3,
+    "category": "Midrange",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "A flat-topped, beefed-up counterpart to the Buzzz built to fight stiff headwinds and deliver strong fading finishes.",
+    "caddieNote": "Feels familiar if you already throw a Buzzz, but gives you the confidence to rip forehands without turning it over.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Buzzz+OS+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-25",
+    "brand": "Discraft",
+    "mold": "Malta",
+    "speed": 5,
+    "glide": 4,
+    "turn": 1,
+    "fade": 3,
+    "category": "Midrange",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "Paul McBeth's beaded overstable midrange designed for aggressive flex lines and high-wind accuracy.",
+    "caddieNote": "Cuts through wind like a fairway driver while landing with the controlled speed of a midrange.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Malta+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-26",
+    "brand": "Innova",
+    "mold": "Mako3",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 0,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "The ultimate point-and-shoot midrange with a 0 Turn and 0 Fade rating for pure, dead-straight flight.",
+    "caddieNote": "Throws brutally honest lines\u2014throw it flat and it flies straight from release until it touches the grass.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Mako3+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-27",
+    "brand": "Innova",
+    "mold": "Roc3",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3,
+    "category": "Midrange",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "A fast, flat-topped evolution of the classic Roc that excels at controlled placement shots and windy approaches.",
+    "caddieNote": "A staple workhorse midrange that starts out reliably overstable and seasons into a long, straight flyer over time.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Roc3+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-28",
+    "brand": "Innova",
+    "mold": "Stingray",
+    "speed": 4,
+    "glide": 5,
+    "turn": -3,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "An easy-to-throw understable midrange with a shallow V-rim that helps newer players keep the disc flat and straight.",
+    "caddieNote": "Cures the classic beginner left-fade immediately and doubles as a great first roller disc.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Stingray+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-29",
+    "brand": "Innova",
+    "mold": "Caiman",
+    "speed": 5.5,
+    "glide": 2,
+    "turn": 0,
+    "fade": 4,
+    "category": "Midrange",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A beadless, high-torque overstable midrange engineered to dump reliably at the end of its flight without skipping far.",
+    "caddieNote": "Gives forehand dominant players a clean, beadless rim that handles 100% power without a hint of wobble.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Caiman+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-30",
+    "brand": "Axiom",
+    "mold": "Hex",
+    "speed": 5,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A modern workhorse GYRO midrange with high glide that flies straight under power with minimal late fade.",
+    "caddieNote": "Slightly shallower and faster-feeling than a Buzzz, holding laser-straight lines even when thrown hard.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Hex+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-31",
+    "brand": "Axiom",
+    "mold": "Paradox",
+    "speed": 5,
+    "glide": 4,
+    "turn": -4,
+    "fade": 0,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "An effortlessly understable midrange that turns right even at very low arm speeds, curing hard early left fades.",
+    "caddieNote": "Allows right-hand backhand throwers to shape sweeping right-hand bends without needing a forehand.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Paradox+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-32",
+    "brand": "MVP",
+    "mold": "Reactor",
+    "speed": 5,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 1.5,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A torque-resistant midrange that combines long glide with a dependable, clean forward-pushing finish.",
+    "caddieNote": "Steps up one notch in stability above the Hex\u2014ideal if you throw midranges hard and want a guaranteed finish.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Reactor+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-33",
+    "brand": "MVP",
+    "mold": "Pyro",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 2.5,
+    "category": "Midrange",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "An overstable prism-rimmed midrange that handles power forehands and flex lines with ease.",
+    "caddieNote": "Combines midrange control with fairway-driver wind resistance and a gorgeous dual-color Proton rim.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Pyro+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-34",
+    "brand": "MVP",
+    "mold": "Uplink",
+    "speed": 5,
+    "glide": 5,
+    "turn": -3,
+    "fade": 0.5,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A silky-smooth hyzer-flip and turnover midrange crafted for wooded courses and finesse shot-shaping.",
+    "caddieNote": "More controllable than the ultra-flippy Paradox, making it a dream for effortless wooded tunnel shots.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Uplink+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-35",
+    "brand": "Latitude 64",
+    "mold": "Fuse",
+    "speed": 5,
+    "glide": 6,
+    "turn": -1,
+    "fade": 0,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Co-designed with Jonathan Fastborg for maximum 6 Glide and gentle turn, floating further than almost any other midrange.",
+    "caddieNote": "Buy the Fuse if you want effortless distance at 70% power without worrying about a harsh late hook.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Fuse+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-36",
+    "brand": "Latitude 64",
+    "mold": "Claymore",
+    "speed": 5,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A comfortable, neutral midrange that offers easy distance and a straight flight path for all skill levels.",
+    "caddieNote": "Slightly softer and more forgiving on off-axis releases than stiffer tour-series midranges.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Claymore+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-37",
+    "brand": "Dynamic Discs",
+    "mold": "Truth",
+    "speed": 5,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A high-speed, responsive midrange that bridges the gap between putters and fairway drivers.",
+    "caddieNote": "Glides like a 6-speed driver while keeping the wide-diameter accuracy of a classic midrange.",
+    "plasticGuide": {
+      "Beginner": "Prime or Lucid Air (160\u2013167g) for forgiving releases",
+      "Intermediate": "Fuzion or Lucid (169\u2013173g) for dependable fairway control",
+      "Advanced": "Lucid-X or Supreme (173\u2013175g) for power throwers"
+    },
+    "visual": {
+      "discColor": "#c94a29",
+      "rimColor": "#8f3017",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Dynamic+Discs+Truth+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-38",
+    "brand": "Discmania",
+    "mold": "MD3",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 1,
+    "category": "Midrange",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A tour-proven control midrange that handles high arm speed while staying remarkably straight from start to finish.",
+    "caddieNote": "Loves to be thrown hard and flat\u2014gives intermediate and advanced arms 300+ feet of rope-straight carry.",
+    "plasticGuide": {
+      "Beginner": "D-Line or Neo (162\u2013168g) for smooth glide",
+      "Intermediate": "S-Line or Neo (168\u2013172g) for controllable turn and fade",
+      "Advanced": "C-Line or Horizon (173\u2013175g) for maximum overstability"
+    },
+    "visual": {
+      "discColor": "#b52b24",
+      "rimColor": "#7d1914",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discmania+MD3+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-39",
+    "brand": "Kastaplast",
+    "mold": "Svea",
+    "speed": 5,
+    "glide": 6,
+    "turn": -1,
+    "fade": 0,
+    "category": "Midrange",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A high-glide Swedish midrange that turns smoothly and finishes completely flat without fading out.",
+    "caddieNote": "Paired with Kastaplast's legendary K1 plastic grip, the Svea glides effortlessly through tight gaps.",
+    "plasticGuide": {
+      "Beginner": "K3 or lightweight K1 (162\u2013167g) for unmatched grip",
+      "Intermediate": "K1 or K1 Soft (168\u2013172g) for buttery feel and flight",
+      "Advanced": "K1 (173\u2013175g) for confident full-power drives"
+    },
+    "visual": {
+      "discColor": "#e37627",
+      "rimColor": "#ab5211",
+      "stampColor": "#1f1b18",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Kastaplast+Svea+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-40",
+    "brand": "Innova",
+    "mold": "Leopard",
+    "speed": 6,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Every player's quintessential first fairway driver; easy to control, great for hyzer-flips and gentle turnovers.",
+    "caddieNote": "Narrow 6-speed rim fits comfortably in any hand and teaches you how to get a full S-curve flight.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Leopard+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-41",
+    "brand": "Innova",
+    "mold": "Leopard3",
+    "speed": 7,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A slightly faster, flatter evolution of the Leopard that offers extra distance while staying very forgiving.",
+    "caddieNote": "Upgrades the classic Leopard with extra speed so it stays in your bag even after your arm speed improves.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Leopard3+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-42",
+    "brand": "Innova",
+    "mold": "TeeBird",
+    "speed": 7,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "The benchmark for accuracy and consistency in fairway drivers, delivering straight flights with a predictable fade.",
+    "caddieNote": "For decades, every other control driver on the market has been measured against the TeeBird's pinpoint reliability.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+TeeBird+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-43",
+    "brand": "Innova",
+    "mold": "TL3",
+    "speed": 8,
+    "glide": 4,
+    "turn": -1,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A flatter, straighter brother to the TeeBird (\"TeeBird Long\") that reduces late fade for tight tunnel fairways.",
+    "caddieNote": "When a standard TeeBird fades just a hair too much at the end of a narrow fairway, the TL3 finishes dead straight.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+TL3+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-44",
+    "brand": "Innova",
+    "mold": "Eagle",
+    "speed": 7,
+    "glide": 4,
+    "turn": -1,
+    "fade": 3,
+    "category": "Fairway Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Intermediate",
+    "description": "A versatile line-shaper with enough high-speed turn to work S-curves and strong low-speed fade to always come back.",
+    "caddieNote": "Gives you more shot-shaping movement than a TeeBird\u2014great for carving S-lines around obstacles.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Eagle+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-45",
+    "brand": "Innova",
+    "mold": "Firebird",
+    "speed": 9,
+    "glide": 3,
+    "turn": 0,
+    "fade": 4,
+    "category": "Fairway Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "The gold standard for overstable utility drivers; thrives in heavy headwinds, thumbers, and power forehands.",
+    "caddieNote": "Every competitive bag needs a 9-speed utility fire-fighter for vicious headwinds and skip shots around corners.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Firebird+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-46",
+    "brand": "Innova",
+    "mold": "Valkyrie",
+    "speed": 9,
+    "glide": 4,
+    "turn": -2,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A former world-distance record holder that gives moderate arm speeds effortless full S-curve flights.",
+    "caddieNote": "The 9-speed sweet spot: fast enough for 320+ ft drives, but narrow enough to control effortlessly.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Valkyrie+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-47",
+    "brand": "Innova",
+    "mold": "Sidewinder",
+    "speed": 9,
+    "glide": 5,
+    "turn": -3,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A high-glide, understable 9-speed driver that adds easy distance for newer throwers and long turnover lines.",
+    "caddieNote": "Unlocks easy 9-speed distance without punishing you with an early left hook.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Sidewinder+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-48",
+    "brand": "Innova",
+    "mold": "Thunderbird",
+    "speed": 9,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "Essentially a faster TeeBird or seasoned Firebird\u2014built for long, accurate placement drives in all wind conditions.",
+    "caddieNote": "Gives you distance-driver carry with the predictable landing zone of a control fairway driver.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Thunderbird+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-49",
+    "brand": "Innova",
+    "mold": "Roadrunner",
+    "speed": 9,
+    "glide": 5,
+    "turn": -4,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A premier understable control driver and backhand roller disc that turns easily at low-to-moderate arm speeds.",
+    "caddieNote": "If every driver you own hooks hard into the left rough, the Roadrunner's -4 Turn will straighten your flight immediately.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Roadrunner+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-50",
+    "brand": "Discraft",
+    "mold": "Cicada",
+    "speed": 7,
+    "glide": 6,
+    "turn": -1,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A glide-heavy, neutral-to-understable fairway driver that carves wooded fairways with minimal power.",
+    "caddieNote": "With a lofty 6 Glide rating, the Cicada stays airborne noticeably longer than traditional 7-speed drivers.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Cicada+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-51",
+    "brand": "Discraft",
+    "mold": "Athena",
+    "speed": 7,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "Paul McBeth's controllable fairway driver designed for straight tunnel shots and reliable finishing fade.",
+    "caddieNote": "Clean, comfortable rim that handles both backhand placement drives and smooth forehands.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Athena+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-52",
+    "brand": "Discraft",
+    "mold": "Heat",
+    "speed": 9,
+    "glide": 6,
+    "turn": -3,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Packed with massive 6 Glide and generous turn, making it one of the easiest 9-speed drivers for developing arms.",
+    "caddieNote": "Often adds 25\u201340 feet of instant carry for players transitioning up from midranges.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Heat+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-53",
+    "brand": "Discraft",
+    "mold": "Undertaker",
+    "speed": 9,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A workhorse control driver that resists turning over for advanced players while remaining workable for intermediates.",
+    "caddieNote": "Bridges the gap between fairway and distance drivers\u2014dependable in wind, woods, or open fields.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Undertaker+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-54",
+    "brand": "Discraft",
+    "mold": "Raptor",
+    "speed": 9,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3,
+    "category": "Fairway Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "Built for pinpoint forehands, spike hyzers, and windy conditions where turning over is not an option.",
+    "caddieNote": "Slightly more forward glide than a Firebird before dumping into its signature hard fade.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Raptor+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-55",
+    "brand": "Discraft",
+    "mold": "Passion",
+    "speed": 8,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "Paige Pierce's control driver engineered to fly like a long midrange with minimal side-to-side drift.",
+    "caddieNote": "Unique micro-beaded rim helps lock in a flat release that tracks straight down the center of the fairway.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Passion+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-56",
+    "brand": "Latitude 64",
+    "mold": "Diamond",
+    "speed": 8,
+    "glide": 6,
+    "turn": -3,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Specifically engineered in Easy-to-Use weights and high understability to give beginners effortless distance.",
+    "caddieNote": "The #1 most recommended driver for brand-new players, juniors, and slower arm speeds.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Diamond+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-57",
+    "brand": "Latitude 64",
+    "mold": "River",
+    "speed": 7,
+    "glide": 7,
+    "turn": -1,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Famous for its industry-leading 7 Glide rating, floating effortlessly down narrow fairways with a gentle S-curve.",
+    "caddieNote": "Feels like it refuses to come down\u2014throw it at 75% power and let the 7 Glide do the heavy lifting.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+River+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-58",
+    "brand": "Latitude 64",
+    "mold": "Explorer",
+    "speed": 7,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A workhorse Swedish control driver designed for point-and-shoot placement drives and predictable hyzers.",
+    "caddieNote": "Pairs TeeBird-style flight ratings with high-glide Opto and Gold Line plastics.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Explorer+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-59",
+    "brand": "MVP",
+    "mold": "Crave",
+    "speed": 6.5,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "An Axiom/MVP fan-favorite with a slim profile that flies like a seasoned control driver straight out of the box.",
+    "caddieNote": "The 6.5-speed rim is remarkably comfortable for both backhand and forehand grips, holding dead-straight lines.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Crave+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-60",
+    "brand": "MVP",
+    "mold": "Volt",
+    "speed": 8,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A dependable placement driver with a strong forward-pushing fade and high torque resistance.",
+    "caddieNote": "Holds straight under high power before delivering a reliable, controlled finish.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Volt+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-61",
+    "brand": "MVP",
+    "mold": "Tesla",
+    "speed": 9,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "Combines a comfortable 9-speed rim with GYRO stability for long, laser-straight flights.",
+    "caddieNote": "Handles both backhand rips and low-ceiling forehand drives without burning over.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Tesla+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-62",
+    "brand": "Axiom",
+    "mold": "Insanity",
+    "speed": 9,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1.5,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A versatile understable control driver that flips up cleanly for intermediate arms and shapes effortless S-turns.",
+    "caddieNote": "Flat profile makes it one of the best understable 9-speeds for players who also throw forehands.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Insanity+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-63",
+    "brand": "Axiom",
+    "mold": "Fireball",
+    "speed": 9,
+    "glide": 3.5,
+    "turn": 0,
+    "fade": 3.5,
+    "category": "Fairway Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A flat, ultra-reliable wind fighter designed for power forehands, flex shots, and big flare skips.",
+    "caddieNote": "Board-flat top feels incredible in a two-finger forehand stack grip.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Fireball+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-64",
+    "brand": "Discmania",
+    "mold": "FD",
+    "speed": 7,
+    "glide": 6,
+    "turn": 0,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Beginner",
+    "description": "A legendary high-glide control driver that stays on the exact fairway line with almost no late fade.",
+    "caddieNote": "Combines 6 Glide with pinpoint neutrality\u2014equally deadly for beginners and touring pros.",
+    "plasticGuide": {
+      "Beginner": "D-Line or Neo (162\u2013168g) for smooth glide",
+      "Intermediate": "S-Line or Neo (168\u2013172g) for controllable turn and fade",
+      "Advanced": "C-Line or Horizon (173\u2013175g) for maximum overstability"
+    },
+    "visual": {
+      "discColor": "#b52b24",
+      "rimColor": "#7d1914",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discmania+FD+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-65",
+    "brand": "Kastaplast",
+    "mold": "Falk",
+    "speed": 9,
+    "glide": 6,
+    "turn": -2,
+    "fade": 1,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A high-glide understable 9-speed driver that effortlessly carves S-curves and hyzer-flips in the woods.",
+    "caddieNote": "K1 plastic grip plus 6 Glide makes the Falk a winter and wooded-course staple.",
+    "plasticGuide": {
+      "Beginner": "K3 or lightweight K1 (162\u2013167g) for unmatched grip",
+      "Intermediate": "K1 or K1 Soft (168\u2013172g) for buttery feel and flight",
+      "Advanced": "K1 (173\u2013175g) for confident full-power drives"
+    },
+    "visual": {
+      "discColor": "#e37627",
+      "rimColor": "#ab5211",
+      "stampColor": "#1f1b18",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Kastaplast+Falk+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-66",
+    "brand": "Kastaplast",
+    "mold": "Lots",
+    "speed": 9,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2,
+    "category": "Fairway Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A neutral-to-stable 9-speed control driver that complements the Falk for windy or open shots.",
+    "caddieNote": "Delivers predictable placement drives with a smooth, buttery release.",
+    "plasticGuide": {
+      "Beginner": "K3 or lightweight K1 (162\u2013167g) for unmatched grip",
+      "Intermediate": "K1 or K1 Soft (168\u2013172g) for buttery feel and flight",
+      "Advanced": "K1 (173\u2013175g) for confident full-power drives"
+    },
+    "visual": {
+      "discColor": "#e37627",
+      "rimColor": "#ab5211",
+      "stampColor": "#1f1b18",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Kastaplast+Lots+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-67",
+    "brand": "Streamline",
+    "mold": "Lift",
+    "speed": 9,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1.5,
+    "category": "Fairway Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A single-mold 9-speed driver built by MVP with high glide and workable high-speed turn.",
+    "caddieNote": "Gives you MVP's signature plastic quality in a classic single-mold profile at a great price point.",
+    "plasticGuide": {
+      "Beginner": "Electron or lightweight Neutron (162\u2013167g)",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for effortless glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for high-power stability"
+    },
+    "visual": {
+      "discColor": "#cf4626",
+      "rimColor": "#942c14",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Streamline+Lift+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-68",
+    "brand": "Innova",
+    "mold": "Beast",
+    "speed": 10,
+    "glide": 5,
+    "turn": -2,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "An approachable 10-speed distance driver that delivers full S-curve flights without requiring pro-level arm speed.",
+    "caddieNote": "The ideal stepping-stone when moving up from 7\u20139 speed fairway drivers into true distance rims.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Beast+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-69",
+    "brand": "Innova",
+    "mold": "Gorgon",
+    "speed": 10,
+    "glide": 6,
+    "turn": -2,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "A modern 10-speed driver combining a comfortable fairway-like rim with massive 6 Glide and easy turn.",
+    "caddieNote": "Built specifically to give everyday players max-distance flights without straining their arm.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Gorgon+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-70",
+    "brand": "Innova",
+    "mold": "Mamba",
+    "speed": 11,
+    "glide": 6,
+    "turn": -5,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Features more high-speed turn (-5) than almost any other distance driver, unlocking huge S-curves for slower arm speeds.",
+    "caddieNote": "If high-speed drivers always hyzer out immediately for you, the Mamba will actually flip up and glide.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Mamba+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-71",
+    "brand": "Innova",
+    "mold": "Mystere",
+    "speed": 11,
+    "glide": 6,
+    "turn": -2,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A smooth S-curve 11-speed driver that glides effortlessly down open fairways with a gentle finish.",
+    "caddieNote": "Less touchy than a Mamba, giving developing intermediate players controllable 11-speed carry.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Mystere+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-72",
+    "brand": "Innova",
+    "mold": "Wraith",
+    "speed": 11,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A legendary 11-speed driver offering maximum distance with noticeably better controllability than a 12-speed.",
+    "caddieNote": "Most amateur and intermediate players actually throw an 11-speed Wraith further and more accurately than a 12-speed Destroyer.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Wraith+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-73",
+    "brand": "Innova",
+    "mold": "Tern",
+    "speed": 12,
+    "glide": 6,
+    "turn": -3,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A shallow-rimmed, high-glide distance driver built for long, sweeping turnovers and tailwind bombs.",
+    "caddieNote": "The shallower rim depth makes it much easier to grip cleanly than deeper 12-speed drivers.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Tern+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-74",
+    "brand": "Innova",
+    "mold": "Shryke",
+    "speed": 13,
+    "glide": 6,
+    "turn": -2,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "Combines high speed with gentle turn and massive 6 Glide for easy max-distance drives on open holes.",
+    "caddieNote": "When you have a wide-open fairway and want your personal distance record, reach for a Star or GStar Shryke.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Shryke+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-75",
+    "brand": "Innova",
+    "mold": "Destroyer",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "The gold standard for high-power distance drivers; excels at massive forehands and crushing backhand drives.",
+    "caddieNote": "Built for 375+ ft power throwers or forehand players who need a driver that fights back reliably.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Destroyer+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-76",
+    "brand": "Innova",
+    "mold": "Boss",
+    "speed": 13,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A wide-rimmed powerhouse designed for advanced throwers who need maximum velocity and wind resistance.",
+    "caddieNote": "Thrives under high torque and stiff headwinds where slower molds would flip over.",
+    "plasticGuide": {
+      "Beginner": "DX or GStar (160\u2013168g) for easier grip and extra glide",
+      "Intermediate": "Star or Pro (168\u2013172g) for seasoned glide and durability",
+      "Advanced": "Star, Champion, or Halo Star (173\u2013175g) for maximum torque resistance"
+    },
+    "visual": {
+      "discColor": "#d93829",
+      "rimColor": "#9e2318",
+      "stampColor": "#f7e3b5",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Innova+Boss+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-77",
+    "brand": "Discraft",
+    "mold": "Avenger SS",
+    "speed": 10,
+    "glide": 5,
+    "turn": -3,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "An easy-to-throw 10-speed distance driver that turns effortlessly into long gliding flights or backhand rollers.",
+    "caddieNote": "A staple first distance driver that teaches hyzer-flip angles and adds easy carry.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Avenger+SS+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-78",
+    "brand": "Discraft",
+    "mold": "Scorch",
+    "speed": 11,
+    "glide": 6,
+    "turn": -2,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A high-glide 11-speed driver engineered to hold a long initial turn before gliding into a reliable late fade.",
+    "caddieNote": "Hits the 11-speed sweet spot with tons of hang-time and an easy-to-grip rim.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Scorch+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-79",
+    "brand": "Discraft",
+    "mold": "Thrasher",
+    "speed": 12,
+    "glide": 5,
+    "turn": -3,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A high-speed understable driver that achieves maximum distance with minimal effort on open fairways.",
+    "caddieNote": "Delivers effortless S-curves for players throwing in the 280\u2013340 ft range.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Thrasher+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-80",
+    "brand": "Discraft",
+    "mold": "Hades",
+    "speed": 12,
+    "glide": 6,
+    "turn": -3,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "Paul McBeth's understable distance driver engineered for huge 6 Glide and effortless S-curve distance.",
+    "caddieNote": "Gives intermediate arms the kind of soaring, full-flight S-curve that pros get out of a Zeus.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Hades+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-81",
+    "brand": "Discraft",
+    "mold": "Zeus",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A fast, reliable workhorse distance driver that holds up to high arm speeds and finishes predictably.",
+    "caddieNote": "Ideal for power backhands and long, pushing forehand drives.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Zeus+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-82",
+    "brand": "Discraft",
+    "mold": "Force",
+    "speed": 12,
+    "glide": 5,
+    "turn": 0,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "Built for high-power throwers who demand zero high-speed turn and a commanding hyzer finish.",
+    "caddieNote": "Your go-to headwind distance driver when accuracy matters more than risky turn.",
+    "plasticGuide": {
+      "Beginner": "Jawbreaker or ESP Lite (160\u2013167g) for effortless turn",
+      "Intermediate": "ESP or Big Z (169\u2013173g) for reliable workhorse stability",
+      "Advanced": "ESP, Z Line, or CryZtal (173\u2013175g) for consistent high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#ad4f0c",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Discraft+Force+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-83",
+    "brand": "MVP",
+    "mold": "Wave",
+    "speed": 11,
+    "glide": 5,
+    "turn": -2,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A staple GYRO distance driver that pairs an easy-to-grip 11-speed rim with effortless hyzer-flip distance.",
+    "caddieNote": "In Fission plastic, the Wave is one of the furthest-flying discs in disc golf for 275\u2013350 ft throwers.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Wave+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-84",
+    "brand": "MVP",
+    "mold": "Orbital",
+    "speed": 11,
+    "glide": 5,
+    "turn": -4.5,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "An ultra-understable 11-speed GYRO driver engineered for slower arm speeds, turnovers, and effortless rollers.",
+    "caddieNote": "Fights early left fade aggressively so newer throwers get a full, straight-finishing flight.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Orbital+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-85",
+    "brand": "MVP",
+    "mold": "Zenith",
+    "speed": 11,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "James Conrad's signature 11-speed control distance driver that resists turn while pushing forward cleanly.",
+    "caddieNote": "When a Wave starts turning too much in the wind, the Zenith steps in with rock-solid control.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Zenith+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-86",
+    "brand": "MVP",
+    "mold": "Photon",
+    "speed": 11,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2.5,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A torque-resistant distance driver that handles headwinds and power forehands with reliable fade.",
+    "caddieNote": "A favorite for forehand distance bombers thanks to its flat profile and GYRO stability.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Photon+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-87",
+    "brand": "MVP",
+    "mold": "Trail",
+    "speed": 10,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "James Conrad's neutral 10-speed driver that flies like an elongated fairway driver with laser-straight carry.",
+    "caddieNote": "With -1 Turn and 1 Fade at Speed 10, the Trail holds dead-straight lines further than almost any other mold.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (158\u2013166g) to maximize GYRO momentum",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for clean release and glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for tour-grade wind fighting"
+    },
+    "visual": {
+      "discColor": "#c83e2b",
+      "rimColor": "#1c1917",
+      "stampColor": "#f5f2eb",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=MVP+Trail+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-88",
+    "brand": "Axiom",
+    "mold": "Vanish",
+    "speed": 11,
+    "glide": 5,
+    "turn": -3,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A high-turn 11-speed GYRO driver that shapes sweeping S-curves and tailwind drives with ease.",
+    "caddieNote": "Gives you one step more turn than the MVP Wave for effortless hyzer-flips.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Vanish+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-89",
+    "brand": "Axiom",
+    "mold": "Time-Lapse",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "Simon Lizotte's premier 12-speed distance driver crafted for high-speed stability and massive glide.",
+    "caddieNote": "Built for big arms looking to push 400+ feet or throw confident flex forehands.",
+    "plasticGuide": {
+      "Beginner": "Fission or Electron (160\u2013167g) for easy hyzer-flips",
+      "Intermediate": "Neutron or Plasma (168\u2013173g) for pinpoint line-shaping",
+      "Advanced": "Proton or Eclipse Glow (173\u2013175g) for added high-speed stability"
+    },
+    "visual": {
+      "discColor": "#e06d1b",
+      "rimColor": "#c83e2b",
+      "stampColor": "#1c1917",
+      "overmold": true
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Axiom+Time-Lapse+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-90",
+    "brand": "Latitude 64",
+    "mold": "Grace",
+    "speed": 11,
+    "glide": 6,
+    "turn": -1,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "Kristin Tattar's Royal Grand favorite that blends neutral high-speed turn with soaring 6 Glide and controllable fade.",
+    "caddieNote": "Combines the controllability of an 11-speed Wraith with silky Royal Grand grip and extra glide.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Grace+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-91",
+    "brand": "Latitude 64",
+    "mold": "Sapphire",
+    "speed": 10,
+    "glide": 6,
+    "turn": -2,
+    "fade": 1.5,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "Designed with a narrower 10-speed rim and 6 Glide so developing players can transition into distance drivers seamlessly.",
+    "caddieNote": "The natural upgrade once you start out-throwing your Latitude 64 Diamond or River.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Sapphire+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-92",
+    "brand": "Latitude 64",
+    "mold": "Jade",
+    "speed": 9,
+    "glide": 6,
+    "turn": -2,
+    "fade": 1,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Beginner",
+    "description": "An easy-to-throw driver built to give developing players effortless distance and control off the tee.",
+    "caddieNote": "Bridges the gap between fairway and distance drivers with effortless turn and glide.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Jade+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-93",
+    "brand": "Latitude 64",
+    "mold": "Rive",
+    "speed": 13,
+    "glide": 5,
+    "turn": 0,
+    "fade": 3.5,
+    "category": "Distance Driver",
+    "stability": "Overstable",
+    "recommendedSkill": "Advanced",
+    "description": "A tour-level Royal Grand distance driver engineered for maximum velocity and reliable high-wind fade.",
+    "caddieNote": "Built for aggressive power throwers who need a 13-speed that always finishes on target.",
+    "plasticGuide": {
+      "Beginner": "Opto Air or Retro (155\u2013165g) for high-glide effortless distance",
+      "Intermediate": "Gold Line or Opto (168\u2013172g) for smooth Swedish glide",
+      "Advanced": "Royal Grand or Opto-X (173\u2013175g) for premium torque control"
+    },
+    "visual": {
+      "discColor": "#b8332a",
+      "rimColor": "#872019",
+      "stampColor": "#fdf1e8",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Latitude+64+Rive+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-94",
+    "brand": "Dynamic Discs",
+    "mold": "Trespass",
+    "speed": 12,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 3,
+    "category": "Distance Driver",
+    "stability": "Stable",
+    "recommendedSkill": "Intermediate",
+    "description": "A slightly more approachable 12-speed driver that delivers dependable high-speed turn before a clean fade.",
+    "caddieNote": "Easier to get up to cruising speed than a Destroyer or Force while still fighting the wind.",
+    "plasticGuide": {
+      "Beginner": "Prime or Lucid Air (160\u2013167g) for forgiving releases",
+      "Intermediate": "Fuzion or Lucid (169\u2013173g) for dependable fairway control",
+      "Advanced": "Lucid-X or Supreme (173\u2013175g) for power throwers"
+    },
+    "visual": {
+      "discColor": "#c94a29",
+      "rimColor": "#8f3017",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Dynamic+Discs+Trespass+disc+golf&tag=YOUR_TAG-20"
+  },
+  {
+    "id": "disc-95",
+    "brand": "Streamline",
+    "mold": "Jet",
+    "speed": 11,
+    "glide": 5,
+    "turn": -3,
+    "fade": 2,
+    "category": "Distance Driver",
+    "stability": "Understable",
+    "recommendedSkill": "Intermediate",
+    "description": "A high-glide understable 11-speed driver that carves effortless S-curves down long fairways.",
+    "caddieNote": "Incredible value in Neutron and Proton plastics for effortless hyzer-flip distance.",
+    "plasticGuide": {
+      "Beginner": "Electron or lightweight Neutron (162\u2013167g)",
+      "Intermediate": "Neutron or Plasma (168\u2013172g) for effortless glide",
+      "Advanced": "Cosmic Neutron or Proton (173\u2013175g) for high-power stability"
+    },
+    "visual": {
+      "discColor": "#cf4626",
+      "rimColor": "#942c14",
+      "stampColor": "#ffffff",
+      "overmold": false
+    },
+    "amazonUrl": "https://www.amazon.com/s?k=Streamline+Jet+disc+golf&tag=YOUR_TAG-20"
+  }
+]

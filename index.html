@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Build My Bag | Disc Golf Mold Matcher &amp; Flight Fitting</title>
+  <!-- Links the external stylesheet located in the same folder -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- =====================================================================
+       SITE HEADER (BUILD MY BAG BRANDING)
+       Includes custom SVG stamp emblem, personal brand tagline, and zero
+       database counter pills so the focus stays on the fitting experience.
+       ===================================================================== -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand-lockup" id="header-home-trigger" role="button" tabindex="0" aria-label="Return to Build My Bag home page">
+        <!-- Custom SVG Disc & Chains Emblem -->
+        <svg class="brand-emblem" viewBox="0 0 56 56" aria-hidden="true">
+          <circle cx="28" cy="28" r="26" fill="#c83e2b" stroke="#1f1b18" stroke-width="2.5" />
+          <circle cx="28" cy="28" r="20" fill="none" stroke="#f5f2eb" stroke-width="1.5" stroke-dasharray="4 3" />
+          <path d="M 15 33 Q 28 14 41 25" fill="none" stroke="#f5f2eb" stroke-width="3" stroke-linecap="round" />
+          <circle cx="41" cy="25" r="3.5" fill="#fdf1e8" />
+        </svg>
+        <div>
+          <span class="eyebrow">PERSONAL DISC GOLF FITTING LAB</span>
+          <h1 class="brand-title">Build My Bag</h1>
+        </div>
+      </div>
+
+      <p class="subtitle" id="page-subtitle">
+        Dial in the exact mold missing from your bag. Tell us how you throw and what your discs are doing mid-flight—we'll match your flight ratings, recommend the right plastic &amp; weight, and plot the flight path.
+      </p>
+    </div>
+  </header>
+
+  <main class="container main-layout">
+
+    <!-- ===================================================================
+         VIEW 1: HOME / BAG FITTING QUESTIONNAIRE PAGE
+         Visible on initial load. Completely hidden once the user clicks
+         "Find My Disc" to open the Results Page.
+         =================================================================== -->
+    <section id="quiz-page" class="quiz-view" aria-labelledby="quiz-heading">
+
+      <div class="panel quiz-panel">
+        <div class="panel-header">
+          <div>
+            <span class="step-kicker">4-STEP FLIGHT DIAGNOSTIC</span>
+            <h2 id="quiz-heading">Dial In Your Throw Profile</h2>
+          </div>
+          <span class="header-badge">Custom Plastic &amp; Weight Fit</span>
+        </div>
+
+        <form id="disc-quiz-form">
+
+          <!-- QUESTION 1: Experience / Distance Tier -->
+          <fieldset class="question-group">
+            <legend>
+              <span class="q-num">1</span>
+              How far do your typical flat drives travel right now?
+            </legend>
+            <p class="field-hint">
+              Your arm speed determines the maximum rim width (Speed rating) that will actually hold a full flight before fading out.
+            </p>
+            <div class="option-grid">
+              <label class="option-card">
+                <input type="radio" name="skill" value="Beginner" checked />
+                <span class="option-tag">DEVELOPING ARM SPEED</span>
+                <span class="option-title">Under 250 Feet (Beginner)</span>
+                <span class="option-desc">Prioritizes high glide, comfortable rim widths, and forgiving high-speed turn.</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="skill" value="Intermediate" />
+                <span class="option-tag">WORKHORSE CONTROL</span>
+                <span class="option-title">250 – 350 Feet (Intermediate)</span>
+                <span class="option-desc">Balances line-shaping accuracy, hyzer-flip distance, and dependable fade up to Speed 12.</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="skill" value="Advanced" />
+                <span class="option-tag">HIGH TORQUE / TOUR POWER</span>
+                <span class="option-title">350+ Feet (Advanced)</span>
+                <span class="option-desc">Unlocks max-velocity rims and high-stability molds that resist turning over under power.</span>
+              </label>
+            </div>
+          </fieldset>
+
+          <!-- QUESTION 2: Bag Slot / Disc Category -->
+          <fieldset class="question-group">
+            <legend>
+              <span class="q-num">2</span>
+              Which slot in your bag are you trying to fill?
+            </legend>
+            <div class="option-grid option-grid-4">
+              <label class="option-card">
+                <input type="radio" name="category" value="Distance Driver" checked />
+                <span class="option-tag">SPEED 10–14</span>
+                <span class="option-title">Distance Driver</span>
+                <span class="option-desc">Maximum open-fairway carry &amp; bomber tee shots</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="category" value="Fairway Driver" />
+                <span class="option-tag">SPEED 6–9</span>
+                <span class="option-title">Fairway Driver</span>
+                <span class="option-desc">Controlled placement &amp; tight wooded fairways</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="category" value="Midrange" />
+                <span class="option-tag">SPEED 4–5</span>
+                <span class="option-title">Midrange</span>
+                <span class="option-desc">Point-and-shoot accuracy &amp; versatile gap hitting</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="category" value="Putter" />
+                <span class="option-tag">SPEED 1–4</span>
+                <span class="option-title">Putter &amp; Approach</span>
+                <span class="option-desc">Circle putting, scramble upshots &amp; short tee drives</span>
+              </label>
+            </div>
+          </fieldset>
+
+          <!-- QUESTION 3: Primary Release / Spin Direction -->
+          <fieldset class="question-group">
+            <legend>
+              <span class="q-num">3</span>
+              Which release are you throwing for this slot?
+            </legend>
+            <p class="field-hint">
+              Spin direction flips the flight physics: a Right-Hand Backhand finishes left, whereas a Right-Hand Forehand (or Left-Hand Backhand) finishes right.
+            </p>
+            <div class="option-grid option-grid-2">
+              <label class="option-card">
+                <input type="radio" name="throwStyle" value="RHBH" checked />
+                <span class="option-tag">CLOCKWISE SPIN</span>
+                <span class="option-title">Right-Hand Backhand (or Left-Hand Forehand)</span>
+                <span class="option-desc">High-speed Turn drifts <strong>RIGHT</strong> &bull; Low-speed Fade hooks <strong>LEFT</strong></span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="throwStyle" value="RHFH_LHBH" />
+                <span class="option-tag">COUNTER-CLOCKWISE SPIN</span>
+                <span class="option-title">Right-Hand Forehand (or Left-Hand Backhand)</span>
+                <span class="option-desc">High-speed Turn drifts <strong>LEFT</strong> &bull; Low-speed Fade hooks <strong>RIGHT</strong></span>
+              </label>
+            </div>
+          </fieldset>
+
+          <!-- QUESTION 4: Current Miss / Flight Frustration -->
+          <fieldset class="question-group">
+            <legend>
+              <span class="q-num">4</span>
+              What's your biggest frustration off the tee right now?
+            </legend>
+            <div class="option-grid">
+              <label class="option-card">
+                <input type="radio" name="missTendency" value="hooks_left" checked />
+                <span class="option-tag" id="tag-left">FIGHTING EARLY FADE</span>
+                <span class="option-title">Hooks Too Far Left</span>
+                <span class="option-desc" id="desc-left">Stalls out and dumps hard to the left side of the fairway too early.</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="missTendency" value="hooks_right" />
+                <span class="option-tag" id="tag-right">FIGHTING TURNOVER</span>
+                <span class="option-title">Burns Over Too Far Right</span>
+                <span class="option-desc" id="desc-right">Flips over to the right side and never fights back to center.</span>
+              </label>
+
+              <label class="option-card">
+                <input type="radio" name="missTendency" value="wants_neutral" />
+                <span class="option-tag">WORKHORSE LINE-SHAPER</span>
+                <span class="option-title">I Want Dead-Straight Control</span>
+                <span class="option-desc">My release angle is dialed—I want a neutral mold that holds the exact line I set.</span>
+              </label>
+            </div>
+          </fieldset>
+
+          <!-- Submit Action: Hides Quiz Page and opens Results Page -->
+          <div class="form-actions">
+            <button type="submit" id="find-disc-btn" class="btn-primary">
+              Find My Disc &rarr;
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <!-- PERSONAL BRAND / CADDIE PHILOSOPHY SECTION ON HOME PAGE -->
+      <div class="panel brand-story-panel">
+        <div class="story-grid">
+          <div class="story-col">
+            <span class="step-kicker">WHY BUILD MY BAG?</span>
+            <h3>Stop Guessing Flight Numbers in the Store</h3>
+            <p>
+              Most disc golfers waste money buying 12- and 13-speed tour drivers that immediately hyzer into the trees, or lightweight discs that burn over into rollers on a windy hole.
+              <strong>Build My Bag</strong> matches your real-world release angle, spin direction, and throwing distance to the exact combination of <strong>Speed, Glide, Turn, and Fade</strong>—plus the specific plastic blend and gram weight that fits your arm.
+            </p>
+          </div>
+          <div class="flight-code-primer">
+            <h4>How the 4-Number Code Works</h4>
+            <ul class="primer-list">
+              <li><strong>Speed (1 to 14):</strong> Rim width &amp; required launch velocity to achieve full flight.</li>
+              <li><strong>Glide (1 to 7):</strong> Loft capacity—higher numbers stay airborne longer for easy carry.</li>
+              <li><strong>Turn (-5 to +1):</strong> High-speed stability right after release (-5 flips easily; 0 resists turn).</li>
+              <li><strong>Fade (0 to 5):</strong> Low-speed hook at the end of the flight as the disc slows down.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ===================================================================
+         VIEW 2: RECOMMENDATION RESULTS PAGE
+         Completely hidden on initial load (`hidden` + `.is-hidden`).
+         Only viewable after clicking "Find My Disc".
+         =================================================================== -->
+    <section id="results-page" class="results-wrapper is-hidden" hidden aria-live="polite">
+
+      <!-- Top Navigation Bar on Results Page -->
+      <div class="results-nav-bar">
+        <button type="button" class="btn-secondary" data-action="return-home">
+          &larr; Get Another Recommendation
+        </button>
+        <div id="profile-summary-pill" class="profile-summary-pill"></div>
+      </div>
+
+      <!-- REQUIRED AMAZON ASSOCIATES DISCLOSURE BANNER -->
+      <div class="amazon-disclosure-banner" role="note" aria-label="Affiliate disclosure">
+        <strong>Affiliate Disclosure:</strong> As an Amazon Associate I earn from qualifying purchases. Product links on this page direct to Amazon.com.
+      </div>
+
+      <!-- MAIN SPOTLIGHT + FLIGHT DIAGRAM GRID -->
+      <div class="results-grid">
+
+        <!-- LEFT PANEL: Primary Disc Recommendation with Custom Visual Disc Graphic -->
+        <div class="panel spotlight-panel">
+          <div class="spotlight-top-row">
+            <span class="tag tag-solid" id="rec-badge">#1 BAG FIT</span>
+            <span class="tag tag-bordered" id="rec-stability-badge">Understable</span>
+          </div>
+
+          <!-- Hero Lockup: Top-Down Hot-Stamp Disc Illustration + Title -->
+          <div class="disc-hero-lockup">
+            <div id="spotlight-disc-art" class="disc-art-container" aria-hidden="true"></div>
+            <div class="disc-hero-text">
+              <span id="rec-brand-kicker" class="brand-kicker">INNOVA</span>
+              <h2 id="rec-title" class="disc-title">Innova Mamba</h2>
+              <p id="rec-category-line" class="disc-meta">Distance Driver &bull; Developing Arm Fit</p>
+            </div>
+          </div>
+
+          <!-- The 4-Number Flight Rating Code -->
+          <div class="flight-numbers-grid" aria-label="Four-number flight code">
+            <div class="fn-box">
+              <span class="fn-label">SPEED</span>
+              <span class="fn-value" id="fn-speed">11</span>
+              <span class="fn-sub">Range: 1–14</span>
+            </div>
+            <div class="fn-box">
+              <span class="fn-label">GLIDE</span>
+              <span class="fn-value" id="fn-glide">6</span>
+              <span class="fn-sub">Range: 1–7</span>
+            </div>
+            <div class="fn-box">
+              <span class="fn-label">TURN</span>
+              <span class="fn-value" id="fn-turn">-5</span>
+              <span class="fn-sub">Range: -5 to +1</span>
+            </div>
+            <div class="fn-box">
+              <span class="fn-label">FADE</span>
+              <span class="fn-value" id="fn-fade">1</span>
+              <span class="fn-sub">Range: 0–5</span>
+            </div>
+          </div>
+
+          <!-- Caddie Field Notes & Plastic/Weight Prescription -->
+          <div class="diagnosis-box">
+            <h3>Caddie's Take: Why It Belongs in Your Bag</h3>
+            <p id="rec-reason"></p>
+            <p id="rec-caddie-note" class="disc-caddie-note"></p>
+          </div>
+
+          <div class="plastic-prescription-box">
+            <span class="prescription-label">RECOMMENDED PLASTIC &amp; WEIGHT FOR YOUR ARM</span>
+            <p id="rec-plastic-guide" class="prescription-text"></p>
+          </div>
+
+          <!-- Amazon Associates Compliant Purchase Link -->
+          <div class="buy-actions">
+            <a
+              id="rec-amazon-link"
+              href="#"
+              target="_blank"
+              rel="nofollow sponsored noopener noreferrer"
+              class="btn-amazon"
+            >
+              <span id="rec-amazon-label">Shop on Amazon.com</span>
+              <span aria-hidden="true">&rarr;</span>
+            </a>
+            <p class="affiliate-note">
+              Paid link &bull; Opens Amazon.com so you can select your preferred plastic and weight.
+            </p>
+          </div>
+        </div>
+
+        <!-- RIGHT PANEL: Flight Trajectory Diagram -->
+        <div class="panel flight-chart-panel">
+          <div class="chart-header">
+            <div>
+              <h3>Simulated Flight Trajectory</h3>
+              <p id="chart-subtitle" class="chart-sub">Right-Hand Backhand &bull; Flat Release</p>
+            </div>
+            <div class="chart-legend">
+              <span class="legend-item"><i class="swatch swatch-turn"></i> High-Speed Turn</span>
+              <span class="legend-item"><i class="swatch swatch-fade"></i> Low-Speed Fade</span>
+            </div>
+          </div>
+
+          <!-- Drafting-Style SVG Flight Map -->
+          <div class="svg-canvas-wrapper">
+            <svg id="flight-svg" viewBox="0 0 360 460" role="img" aria-label="Visual disc golf flight path chart">
+              <!-- Fairway yardage lines (rendered by script.js) -->
+              <g id="svg-grid-layer"></g>
+
+              <!-- Center target line (Tee pad to Basket) -->
+              <line x1="180" y1="420" x2="180" y2="40" class="center-target-line" />
+
+              <!-- Crisp solid flight path curve -->
+              <path id="svg-flight-path" d="" class="flight-path-main" />
+
+              <!-- Key waypoints (Tee Pad, Turn Apex, Landing Spot) -->
+              <g id="svg-waypoints-layer"></g>
+            </svg>
+          </div>
+
+          <p class="chart-footer-note">
+            Click any alternative mold below to load its disc stamp, flight path, and plastic recommendation above.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- TOP RUNNER-UP ALTERNATIVES + "VIEW ALL RECOMMENDATIONS" DRAWER -->
+      <div class="panel alternatives-panel">
+        <div class="alternatives-header">
+          <div>
+            <span class="step-kicker">COMPARE SIMILAR MOLDS</span>
+            <h3>Top Runner-Up Recommendations</h3>
+            <p class="alt-sub">Click any disc card below to inspect its flight trajectory above, or use the direct Amazon link on any card:</p>
+          </div>
+          <button type="button" id="toggle-all-recs-btn" class="btn-outline-accent">
+            View All Matching Recommendations &darr;
+          </button>
+        </div>
+
+        <!-- Primary 4 Alternatives Grid (Spacious 2-Column Layout with Non-Wrapping Flight Numbers) -->
+        <div id="alternatives-grid" class="alternatives-grid"></div>
+
+        <!-- Expandable "View All Recommendations" Section (Hidden until clicked) -->
+        <div id="all-recommendations-drawer" class="all-recs-drawer is-hidden" hidden>
+          <div class="drawer-divider">
+            <h4>Complete Ranked List for Your Slot &amp; Throw Style</h4>
+            <p>Every mold in this category ranked by how closely its flight ratings fit your throw:</p>
+          </div>
+          <div id="all-recommendations-grid" class="alternatives-grid"></div>
+        </div>
+      </div>
+
+      <!-- Single Clean Bottom Action to Return Home for a New Recommendation -->
+      <div class="results-bottom-actions">
+        <button type="button" class="btn-secondary btn-return-large" data-action="return-home">
+          &larr; Get Another Recommendation
+        </button>
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>
+        <strong>Build My Bag</strong> &bull; Personal Disc Golf Mold Matcher &amp; Flight Fitting Lab.
+        As an Amazon Associate I earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Loads the application logic after the HTML elements exist -->
+  <script src="script.js"></script>
+</body>
+</html>
